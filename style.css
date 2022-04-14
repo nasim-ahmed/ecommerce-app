@@ -145,3 +145,34 @@ nav {
 .sliderItem:nth-child(5) .sliderBg {
     background-color: rgb(124, 115, 80);
 }
+
+.features {
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.feature {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.featureIcon {
+    width: 50px;
+    height: 50px;
+}
+
+.featureTitle {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px;
+}
+
+.featureDesc {
+    color: gray;
+    width: 50%;
+    height: 100px;
+}
