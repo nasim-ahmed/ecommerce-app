@@ -2,7 +2,7 @@
 
 This is a one page ecommerce app. 
 
-##Technical Stacks
+## Technical Stacks
 - HTML 
 - CSS 
 - Javascript
